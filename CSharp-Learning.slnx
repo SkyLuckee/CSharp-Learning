@@ -4,6 +4,7 @@
   <Project Path="If Else If/If Else If.csproj" Id="704f8f28-18b4-4043-a72d-9e3e068735b4" />
   <Project Path="Loop/Loop.csproj" Id="626aad41-1dfa-45dc-94a8-414dd9558169" />
   <Project Path="Math/Math.csproj" Id="ef5933ad-8886-40f5-9b32-80e7c56c12a0" />
+  <Project Path="Methods/Methods.csproj" Id="edcf1b09-7c08-4c21-87ad-50f54a6bc466" />
   <Project Path="Operators/Operators.csproj" Id="a5ce1542-58ac-451d-a714-205dd204505e" />
   <Project Path="Strings/Strings.csproj" Id="ed5332c7-4664-4327-85c2-652f8cc12cdb" />
   <Project Path="Switch/Switch.csproj" Id="e5d5bd91-2e2f-4b14-875b-b000a2a8e0f3" />
